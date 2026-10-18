@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <circle cx="50" cy="50" r="48" fill="#5B7553" />
+  <!-- Stylized Lotus Petals -->
+  <path d="M50 20 C42 35 40 55 50 72 C60 55 58 35 50 20 Z" fill="#FDFBF7" opacity="0.95"/>
+  <path d="M50 72 C35 68 22 55 24 40 C32 46 42 58 50 72 Z" fill="#E8DFD5" opacity="0.9"/>
+  <path d="M50 72 C65 68 78 55 76 40 C68 46 58 58 50 72 Z" fill="#E8DFD5" opacity="0.9"/>
+  <path d="M50 72 C28 72 16 64 14 55 C26 55 40 64 50 72 Z" fill="#C86D51" opacity="0.85"/>
+  <path d="M50 72 C72 72 84 64 86 55 C74 55 60 64 50 72 Z" fill="#C86D51" opacity="0.85"/>
+  <circle cx="50" cy="71" r="3.5" fill="#FAF8F5" />
+</svg>
